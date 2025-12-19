@@ -1,5 +1,13 @@
-
 # 🛒 CartPricing – Solution Overview
+
+## 📦 Prerequisites
+
+- .NET SDK (5.0 supported by VS2019)
+- Visual Studio 2019 (optional)
+- Git (optional)
+- cURL or Postman (for API calls)
+
+---
 
 ## ✅ Intention & Understanding
 
