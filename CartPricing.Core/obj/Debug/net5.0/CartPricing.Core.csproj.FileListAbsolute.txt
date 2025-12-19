@@ -1,0 +1,12 @@
+C:\DEV\CartPricing\CartPricing.Core\bin\Debug\net5.0\CartPricing.Core.deps.json
+C:\DEV\CartPricing\CartPricing.Core\bin\Debug\net5.0\CartPricing.Core.dll
+C:\DEV\CartPricing\CartPricing.Core\bin\Debug\net5.0\CartPricing.Core.pdb
+C:\DEV\CartPricing\CartPricing.Core\obj\Debug\net5.0\CartPricing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\CartPricing\CartPricing.Core\obj\Debug\net5.0\CartPricing.Core.AssemblyInfoInputs.cache
+C:\DEV\CartPricing\CartPricing.Core\obj\Debug\net5.0\CartPricing.Core.AssemblyInfo.cs
+C:\DEV\CartPricing\CartPricing.Core\obj\Debug\net5.0\CartPricing.Core.csproj.CoreCompileInputs.cache
+C:\DEV\CartPricing\CartPricing.Core\obj\Debug\net5.0\CartPricing.Core.dll
+C:\DEV\CartPricing\CartPricing.Core\obj\Debug\net5.0\ref\CartPricing.Core.dll
+C:\DEV\CartPricing\CartPricing.Core\obj\Debug\net5.0\CartPricing.Core.pdb
+C:\DEV\CartPricing\CartPricing.Core\obj\Debug\net5.0\CartPricing.Core.csproj.AssemblyReference.cache
+C:\DEV\CartPricing\CartPricing.Core\obj\Debug\net5.0\refint\CartPricing.Core.dll
